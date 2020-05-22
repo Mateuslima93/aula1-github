@@ -15,6 +15,7 @@ public class Poo01 {
      
      e1.status();
      e1.intensidade();
+        System.out.println("Bom dia");
     }
     
 }
